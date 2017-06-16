@@ -2,9 +2,7 @@ import java.util.*;
 
 /*
  * TODO:
- * Fix SubArraysByIndexForH method
- * still don't know how to make a dynamically sized array of dynamically sized int arrays
- * need to do this still...
+ *
  */
 
 class ShellSort {
